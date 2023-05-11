@@ -1,0 +1,33 @@
+Walkthrough - The Mansion Escape
+--------------------------------
+
+> open box
+> go north
+> go north
+> use flashlight
+> get fishing rod
+> go up
+> go east
+> open refrigerator
+> go west
+> go west
+> give steak
+> go south
+> get sword
+> go north
+> go east
+> go up
+> go east
+> put fishing rod (or use fishing rod)
+> go west
+> go down
+> go down
+> unlock door
+> go west
+> kill corpse (or use sword)
+> get key
+> go east
+> go up
+> unlock door
+> open door
+> go north
